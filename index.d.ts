@@ -11,6 +11,7 @@ import { Iterator, Iterable, Seq,
 	Stack as Stack1
 	 } from 'immutable';
 
+declare module 'extendable-immutable';
 
 export class List<T> implements List1<any> {
 	// Iterable methods
