@@ -1,5 +1,5 @@
 {
-  "name": "extendable-immutable-typings",
+  "name": "@types/extendable-immutable",
   "version": "1.0.0",
   "description": "Typescript definitions for the extendable-immutable package.",
   "main": "index.d.ts",
