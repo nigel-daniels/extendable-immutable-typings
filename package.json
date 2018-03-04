@@ -1,0 +1,27 @@
+{
+  "name": "extendable-immutable-typings",
+  "version": "1.0.0",
+  "description": "Typescript definitions for the extendable-immutable package.",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigel-daniels/extendable-immutable-typings.git"
+  },
+  "keywords": [
+    "immutable.js",
+    "extendable-immutable",
+    "typescript"
+  ],
+  "author": "Nigel Daniels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nigel-daniels/extendable-immutable-typings/issues"
+  },
+  "homepage": "https://github.com/nigel-daniels/extendable-immutable-typings#readme",
+  "devDependencies": {
+    "immutable": "^3.8.2"
+  }
+}
