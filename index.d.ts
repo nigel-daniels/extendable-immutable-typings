@@ -1,7 +1,7 @@
 // Type definitions for extendable-immutable 1.3.3
 // Project: https://github.com/kitten/extendable-immutable
 // Definitions by: Nigel Daniels <https://github.com/nigel-daniels>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
+// Definitions: https://github.com/nigel-daniels/extendable-immutable-typings
 declare module 'extendable-immutable' {
 	import { Iterator, Iterable, Seq,
 		List as List1,
